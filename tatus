@@ -1,0 +1,36 @@
+[33mcommit 743063772c811f1a0403da8ca9ebac9f99bbd415[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 32baffa 9fc5695
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Tue Apr 1 13:38:23 2025 +0300
+
+    sapludināti zari
+
+[33mcommit 32baffab9b248fcbc97677aa1b5d03b4149a814d[m
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Tue Apr 1 13:30:37 2025 +0300
+
+    Iespēja ievadīt cik reizes mest kauliņu
+
+[33mcommit 9fc5695c3e8df8b7fe34133aa7125a60ee407bf5[m[33m ([m[1;32mtestaZars[m[33m)[m
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Mon Mar 31 14:33:34 2025 +0300
+
+    Metodē ieviests cikls
+
+[33mcommit 97f3cd6d024378e12f7118cd7ec56d798a0aef56[m
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Mon Mar 31 14:28:45 2025 +0300
+
+    Pievienota metode
+
+[33mcommit 744eef5f8f164219e18275a5f6c1ea1bacb682af[m
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Mon Mar 31 14:13:58 2025 +0300
+
+    Programmas pirmā versija
+
+[33mcommit 6f4120750d43be59e86f76867371b4eae0edd7a2[m
+Author: minime556 <markuss7kalnins@gmail.com>
+Date:   Mon Mar 31 14:06:19 2025 +0300
+
+    Projekta uzsākšana
