@@ -20,7 +20,8 @@ public class Kaulins {
 			do {
 			System.out.println("Cik reizes mest kauliņu?");
 			reizes = scan.nextInt();
-			}while(reizes<1);
+			
+			}while(reizes<1 || reizes>100);
 			scan.close();
 			mestKaulinu(reizes);
 
